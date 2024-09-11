@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **yelizavkom@gmail.com**
 
+- ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
