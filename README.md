@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lizzie!</h1>
 <h3 align="center">A passionate Quality Assurance Engineer</h3>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently looking for a job with **JavaScript, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/komyelizqa](https://github.com/komyelizqa)
 
