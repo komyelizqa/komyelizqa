@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lizzie!</h1>
-<h3 align="center">A passionate Software Developer!</h3>
+<h3 align="center">A passionate Full Stack Software Developer!</h3>
 
 - 🌱 I’m currently looking for a job with **JavaScript, React**
 
