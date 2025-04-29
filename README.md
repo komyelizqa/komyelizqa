@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lizzie!</h1>
-<h3 align="center">A passionate Full Stack Software Developer!</h3>
+<h1 align="center">Hi 👋, I'm Liza!</h1>
+<h3 align="center">A passionate Software Engineer!</h3>
 
-- 🌱 I’m currently looking for a job with **JavaScript, React**
+- 🌱 I’m currently looking for a job with **JavaScript, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/komyelizqa](https://github.com/komyelizqa)
 
